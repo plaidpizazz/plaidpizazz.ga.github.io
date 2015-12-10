@@ -1,0 +1,78 @@
+
+div	{
+	width: 80px;
+	height: 18px;
+	border: 1px solid #007aac;
+	margin: 20px;
+	font-style: Helvetica;
+	font-size: 12px;
+	text-align: center;
+	color: #007aac;
+	padding: 4px;
+}
+
+#logo {
+	position: fixed;
+	top: 10px;
+	left: 40px;
+	color: #007aac;
+	font-weight: bold;
+}
+
+
+#features {
+	position: fixed;
+	top: 10px;
+	right: 500px;
+	color: #007aac;
+	font-weight: bold;
+}
+
+#pricing {
+	position: fixed;
+	top: 10px;
+	right: 400px;
+	color: #007aac;
+	font-weight: bold;
+}
+
+#login {
+	position: fixed;
+	top: 10px;
+	right: 300px;
+	color: #ffffff;
+	background: #007aac
+}
+
+#signup	{
+	position: fixed;
+	top: 10px;
+	right: 200px;
+	color: #ffffff;
+	background: #007aac;
+}
+
+h1 {
+	text-align: center;
+	color: #007aac;
+	font-style: Helvetica;
+}
+
+p {
+	text-align: center;
+	color: #007aac;
+	font-weight: bold;
+}
+
+body {
+	background: url(../images/porta_marina_01.jpg);
+	background-size: cover;
+	background-opacity: 0.8;
+
+}
+
+#free_signup {
+	margin: 0 auto;
+	color: #ffffff;
+	background: #007aac
+}
